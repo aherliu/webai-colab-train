@@ -1,5 +1,5 @@
 cd maix_train
-pip install tensorflow==2.8
+pip install tensorflow==2.18
 rm -rf out
 cp /content/drive/MyDrive/$1 ../kmodels
 mkdir -p /content/drive/MyDrive/webai-train/detector/$1
